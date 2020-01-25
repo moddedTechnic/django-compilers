@@ -11,9 +11,7 @@ setup(
 	url='https://github.com/moddedTechnic/django-compilers',
 	download_url='https://github.com/moddedTechnic/django-copmilers/archive/v0.1.1-alpha.tar.gz',
 	keywords=['django', 'HTML', 'components'],
-	install_requires=[
-		'django',
-	],
+	install_requires=[],
 	classifiers=[
 		'Development Status :: 3 - Alpha',
 		'Intended Audience :: Developers',
